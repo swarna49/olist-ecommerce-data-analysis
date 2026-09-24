@@ -1,5 +1,27 @@
+# Project data and local environments
 archive/
 .venv/
+
+# Python
 __pycache__/
-*.pyc
+*.py[codz]
+*$py.class
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local configuration and secrets
+.env
+.envrc
