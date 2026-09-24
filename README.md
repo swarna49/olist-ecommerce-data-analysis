@@ -137,7 +137,11 @@ The dashboard contains:
 - Review scores
 - Late delivery percentage
 
-Dashboard file:
+### Dashboard Preview
+
+![Olist E-Commerce Dashboard](dashboard_preview.png)
+
+The interactive dashboard is available here:
 
 `olist_dashboard.html`
 
@@ -156,10 +160,7 @@ olist-ecommerce-data-analysis/
 ├── olist_analysis.ipynb
 │
 ├── olist_dashboard.html
+├── dashboard_preview.png
 ├── olist_kpis.csv
 └── olist_main_dataset.csv
 ```
-
-## Dashboard Preview
-
-![Olist E-Commerce Dashboard](dashboard_preview.png)
