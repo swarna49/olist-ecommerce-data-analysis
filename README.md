@@ -158,12 +158,8 @@ olist-ecommerce-data-analysis/
 ├── olist_dashboard.html
 ├── olist_kpis.csv
 └── olist_main_dataset.csv
+```
 
+## Dashboard Preview
 
-
-
-git add README.md
-git commit -m "Improve project README"
-git push
-## 📊 Interactive Dashboard
 ![Olist E-Commerce Dashboard](dashboard_preview.png)
