@@ -94,29 +94,35 @@ The analysis includes:
 The project analyzes:
 
 ### Sales Analysis
+
 - Monthly sales trends
 - Sales by product category
 - Sales by state
 - Product sales performance
 
 ### Customer Analysis
+
 - Customer distribution by state
 - Customer purchasing patterns
 
 ### Payment Analysis
+
 - Payment method usage
 - Payment value by payment method
 
 ### Delivery Analysis
+
 - Average delivery time
 - Late deliveries
 - Delivery status
 
 ### Review Analysis
+
 - Review score distribution
 - Relationship between delivery performance and reviews
 
 ### Seller Analysis
+
 - Seller sales performance
 - Seller order activity
 
@@ -154,13 +160,13 @@ olist-ecommerce-data-analysis/
 │
 ├── .gitignore
 ├── README.md
+├── dashboard_preview.png
 │
 ├── final.ipynb
 ├── interactive.ipynb
 ├── olist_analysis.ipynb
 │
 ├── olist_dashboard.html
-├── dashboard_preview.png
 ├── olist_kpis.csv
 └── olist_main_dataset.csv
 ```
